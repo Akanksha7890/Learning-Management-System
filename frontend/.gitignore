@@ -26,3 +26,7 @@ dist-ssr
 *.sw?
 
 .env
+node_modules
+.env
+dist
+build
