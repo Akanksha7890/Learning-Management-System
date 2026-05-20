@@ -26,7 +26,7 @@ import ViewLecture from './pages/ViewLecture'
 import SearchWithAi from './pages/SearchWithAi'
 import getAllReviews from './customHooks/getAllReviews'
 
-export const serverUrl = "http://localhost:8000"
+export const serverUrl = "https://learning-management-system-backend-aghy.onrender.com"
 
 function App() {
   
